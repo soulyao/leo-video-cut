@@ -1,0 +1,4 @@
+interface:
+  display_name: "Leo Video Cut"
+  short_description: "将中文内容制作成包含三道审批门槛的本地竖屏短视频项目"
+  default_prompt: "使用 $leo-video-cut 将这段中文制作成完整的竖屏短视频项目。"
